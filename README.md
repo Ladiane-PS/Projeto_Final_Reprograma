@@ -1,4 +1,4 @@
-![logo](graficos/analise.png)
+![logo](graficos/analise.jpeg)
 
 ## Análise comparativa dos indicadores socioeconômicos dos estados brasileiros  🚀 🚀 🚀 🚀
 
