@@ -17,31 +17,31 @@
 
 1. **Quais são os estados com as maiores e menores populações?**
 
-![Gráfico de Barras vertical](projetofinal3/graficos/img1.png)
+![Gráfico de Barras vertical](graficos/img1.png)
 
 ---
 
 2. **Como a renda per capita varia entre os estados?**
 
-![Gráfico de Barras Horizontais](projetofinal3/graficos/img2.png)
+![Gráfico de Barras Horizontais](graficos/img2.png)
 
 ---
 
 3. **Existe uma correlação entre a área territorial dos estados e seus indicadores socioeconômicos?**
 
-![Gráfico de Dispersão](projetofinal3/graficos/img3.png)
+![Gráfico de Dispersão](graficos/img3.png)
 
 ---
 
 4. **Quais são os estados com as maiores disparidades na matrícula no ensino fundamental?**
 
-![Gráfico de Boxplot (Diagrama de Caixa)](projetofinal3/graficos/img4.png)
+![Gráfico de Boxplot (Diagrama de Caixa)](graficos/img4.png)
 
 ---
 
 5. **Como o Índice de Desenvolvimento Humano (IDH) se relaciona com outros indicadores socioeconômicos?**
 
-![Gráfico de Mapa de Calor (Heatmap)](projetofinal3/graficos/img5.png)
+![Gráfico de Mapa de Calor (Heatmap)](graficos/img5.png)
 
 ---
 
@@ -54,7 +54,7 @@ Hipótese Nula (𝐻0): Não há diferença significativa na renda per capita en
 Hipótese Alternativa (𝐻1): Há uma diferença significativa na renda per capita entre os estados com IDH acima da média e os estados com IDH abaixo ou igual à média.
 """
 
-![# Gráfico de Boxplot Comparativo](projetofinal3/graficos/img6.png)
+![# Gráfico de Boxplot Comparativo](graficos/img6.png)
 
 ---
 
