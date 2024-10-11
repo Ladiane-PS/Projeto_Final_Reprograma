@@ -22,6 +22,7 @@
 ![Gráfico de Barras vertical](graficos/img1.png)
 
 O gráfico destaca as disparidades populacionais entre os estados do Brasil, mostrando que São Paulo possui a maior população, enquanto Roraima é o estado menos populoso. Essas informações podem ser úteis para discutir questões relacionadas à infraestrutura, economia e serviços públicos, além de suas implicações para políticas sociais e econômicas em diferentes regiões do país
+
 ---
 
 2. **Como a renda per capita varia entre os estados?**
@@ -41,6 +42,7 @@ Tendência Geral: O gráfico mostrar se existe uma tendência de que estados com
 Outliers: Estados como São Paulo, que têm uma população elevada em relação à sua área, podem se destacar como outliers, desafiando a ideia de que mais área sempre significa mais população.
 
 Implicações Socioeconômicas: As diferenças populacionais em relação à área territorial podem refletir disparidades em infraestrutura, serviços públicos e desenvolvimento econômico, sugerindo que a densidade populacional e a distribuição territorial precisam ser consideradas nas políticas sociais e econômicas.
+
 ---
 
 4. **Quais são os estados com as maiores disparidades na matrícula no ensino fundamental?**
@@ -61,12 +63,11 @@ O gráfico de mapa de calor destaca como o Índice de Desenvolvimento Humano (ID
 
 6. **A renda per capita varia significativamente entre os estados brasileiros com IDH acima da média e aqueles com IDH abaixo ou igual à média?**
 
-"""
 Pergunta da Hipótese:
 Hipótese Nula (𝐻0): Não há diferença significativa na renda per capita entre os estados com IDH acima da média e os estados com IDH abaixo ou igual à média.
 
 Hipótese Alternativa (𝐻1): Há uma diferença significativa na renda per capita entre os estados com IDH acima da média e os estados com IDH abaixo ou igual à média.
-"""
+
 
 ![# Gráfico de Boxplot Comparativo](graficos/img6.png)
 
