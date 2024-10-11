@@ -66,6 +66,36 @@ Hipótese Alternativa (𝐻1): Há uma diferença significativa na renda per cap
 
 * **Fonte 1:**
   * Coleta de dados do IBGE por meio de web scraping permitiu construir um dataset abrangente sobre os indicadores sociais e econômicos dos estados brasileiros.
+  link [Texto do link](URL)
+
+
+[AC -](https://www.ibge.gov.br/cidades-e-estados/ac.html)
+[AL - ](https://www.ibge.gov.br/cidades-e-estados/al.html)
+[AP - ](https://www.ibge.gov.br/cidades-e-estados/ap.html)
+[AM - ](https://www.ibge.gov.br/cidades-e-estados/am.html)
+[BA - ](https://www.ibge.gov.br/cidades-e-estados/ba.html)
+[CE - ](https://www.ibge.gov.br/cidades-e-estados/ce.html)
+[DF - ](https://www.ibge.gov.br/cidades-e-estados/df.html)
+[ES - ](https://www.ibge.gov.br/cidades-e-estados/es.html)
+[GO - ](https://www.ibge.gov.br/cidades-e-estados/go.html)
+[MA - ](https://www.ibge.gov.br/cidades-e-estados/ma.html)
+[MT - ](https://www.ibge.gov.br/cidades-e-estados/mt.html)
+[MS - ](https://www.ibge.gov.br/cidades-e-estados/ms.html)
+[MG - ](https://www.ibge.gov.br/cidades-e-estados/mg.html)
+[PA - ](https://www.ibge.gov.br/cidades-e-estados/pa.html)
+[PB - ](https://www.ibge.gov.br/cidades-e-estados/pb.html)
+[PR - ](https://www.ibge.gov.br/cidades-e-estados/pr.html)
+[PE - ](https://www.ibge.gov.br/cidades-e-estados/pe.html)
+[PI - ](https://www.ibge.gov.br/cidades-e-estados/pi.html)
+[RR - ](https://www.ibge.gov.br/cidades-e-estados/rr.html)
+[RO - ](https://www.ibge.gov.br/cidades-e-estados/ro.html)
+[RJ - ](https://www.ibge.gov.br/cidades-e-estados/rj.html)
+[RN - ](https://www.ibge.gov.br/cidades-e-estados/rn.html)
+[RS - ](https://www.ibge.gov.br/cidades-e-estados/rs.html)
+[SC - ](https://www.ibge.gov.br/cidades-e-estados/sc.html)
+[SP - ](https://www.ibge.gov.br/cidades-e-estados/sp.html)
+[SE - ](https://www.ibge.gov.br/cidades-e-estados/se.html)
+[TO - ](https://www.ibge.gov.br/cidades-e-estados/to.html)
 
 ---
 
