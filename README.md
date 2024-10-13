@@ -35,7 +35,7 @@ O gráfico ilustra a distribuição da renda per capita entre os estados, destac
 
 3. **Existe uma correlação entre a área territorial dos estados e seus indicadores socioeconômicos?**
 
-![Gráfico de Dispersão](graficos/img3.png)
+![Gráfico de Dispersão](graficos/imge3.png)
 
 Tendência Geral: O gráfico mostrar se existe uma tendência de que estados com maiores áreas territoriais também tenham populações maiores. Isso pode indicar uma correlação positiva entre a extensão territorial e o número de habitantes.
 
@@ -47,7 +47,7 @@ Implicações Socioeconômicas: As diferenças populacionais em relação à ár
 
 4. **Quais são os estados com as maiores disparidades na matrícula no ensino fundamental?**
 
-![Gráfico de Boxplot (Diagrama de Caixa)](graficos/img4.png)
+![Gráfico de Boxplot (Diagrama de Caixa)](graficos/imge4.png)
 
 Esse gráfico fornece uma representação visual clara das matrículas no ensino fundamental por estado, permitindo análises sobre desigualdade educacional, impacto das políticas públicas e a relação entre condições socioeconômicas e acesso à educação.
 
